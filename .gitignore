@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.egg-info/
+# OS and notebooks
+.DS_Store
+__MACOSX/
+.ipynb_checkpoints/
+# local generated files not needed in version control
+artifacts/model.joblib
